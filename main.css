@@ -1,1 +1,8 @@
+div.container {
+  width: 90%;
+  margin: 5%;
+}
 
+h1.title {
+  text-align: center;
+}
