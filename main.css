@@ -9,9 +9,9 @@ ul {
 }
 
 .heading {
-  font-family: 'Alfa Slab One', cursive;
+  font-family: "Abril Fatface", cursive;
   margin-top: 5rem;
-  font-size:3rem;
+  font-size: 3rem;
   text-align: center;
   color: rgb(20, 20, 20);
 }
@@ -47,7 +47,7 @@ ul {
   margin: 0;
   padding: 0;
   overflow: hidden;
-  background:linear-gradient(rgb(15, 143, 228), rgb(9, 7, 150));
+  background: linear-gradient(rgb(6, 21, 105), rgb(9, 7, 150));
 }
 
 li {
