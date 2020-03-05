@@ -8,9 +8,12 @@ ul {
   font-size: 1.2rem;
 }
 
-h1 {
+.heading {
+  font-family: 'Alfa Slab One', cursive;
+  margin-top: 5rem;
+  font-size:3rem;
   text-align: center;
-  color: rgb(241, 19, 19);
+  color: rgb(20, 20, 20);
 }
 
 h3 {
