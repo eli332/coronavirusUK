@@ -10,7 +10,7 @@ ul {
 }
 
 .heading {
-  font-family: "Abril Fatface", cursive;
+  font-family: Georgia, 'Times New Roman', Times, serif;
   margin-top: 5rem;
   font-size: 3rem;
   text-align: center;
@@ -48,7 +48,7 @@ ul {
   margin: 0;
   padding: 0;
   overflow: hidden;
-  background: linear-gradient(rgb(6, 21, 105), rgb(9, 7, 150));
+  background: linear-gradient(rgb(245, 229, 14), rgb(229, 233, 32));
 }
 
 li {
@@ -57,7 +57,7 @@ li {
 
 li a {
   display: block;
-  color: white;
+  color: rgb(24, 22, 22);
   text-align: center;
   padding: 14px 16px;
   text-decoration: none;
